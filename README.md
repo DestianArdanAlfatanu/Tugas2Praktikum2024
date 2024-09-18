@@ -20,10 +20,10 @@ NIM : H1D022045
 Shift Baru: E
 
 ## Screenshot
-Contoh :
-![Lampiran Form](form.png)
-![WhatsApp Image 2024-09-18 at 23 21 05_20fb5100](https://github.com/user-attachments/assets/e1b43228-7cde-49d4-8803-aaaf4182e103)
 
-![Lampiran Hasil](hasil.png)
-![WhatsApp Image 2024-09-18 at 23 30 07_043ccef1](https://github.com/user-attachments/assets/12b42de5-8a44-453e-98a7-9bc30301ed5a)
+### Tampilan Form Data
+<img src="https://github.com/user-attachments/assets/e1b43228-7cde-49d4-8803-aaaf4182e103" width="400" />
+
+### Tampilan Hasil Data
+<img src="https://github.com/user-attachments/assets/12b42de5-8a44-453e-98a7-9bc30301ed5a" width="400" />
 
